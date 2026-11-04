@@ -1,0 +1,1 @@
+ Politique de confidentialité. Cette application a un seul utilisateur, son propriétaire. Elle lit son Gmail, son agenda, Drive, Sheets et Docs sur son propre ordinateur, garde ces données sur cet ordinateur et ne les envoie nulle part, sauf à Claude via son propre abonnement. Elle ne collecte rien de personne d'autre.
